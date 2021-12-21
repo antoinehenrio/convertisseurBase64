@@ -1,0 +1,15 @@
+D:\ProjetsPerso\C#\ApplicationTest1\ConvertisseurBase64\ConvertisseurBase64\bin\Debug\net6.0\ConvertisseurBase64.exe
+D:\ProjetsPerso\C#\ApplicationTest1\ConvertisseurBase64\ConvertisseurBase64\bin\Debug\net6.0\ConvertisseurBase64.deps.json
+D:\ProjetsPerso\C#\ApplicationTest1\ConvertisseurBase64\ConvertisseurBase64\bin\Debug\net6.0\ConvertisseurBase64.runtimeconfig.json
+D:\ProjetsPerso\C#\ApplicationTest1\ConvertisseurBase64\ConvertisseurBase64\bin\Debug\net6.0\ConvertisseurBase64.dll
+D:\ProjetsPerso\C#\ApplicationTest1\ConvertisseurBase64\ConvertisseurBase64\bin\Debug\net6.0\ref\ConvertisseurBase64.dll
+D:\ProjetsPerso\C#\ApplicationTest1\ConvertisseurBase64\ConvertisseurBase64\bin\Debug\net6.0\ConvertisseurBase64.pdb
+D:\ProjetsPerso\C#\ApplicationTest1\ConvertisseurBase64\ConvertisseurBase64\obj\Debug\net6.0\ConvertisseurBase64.csproj.AssemblyReference.cache
+D:\ProjetsPerso\C#\ApplicationTest1\ConvertisseurBase64\ConvertisseurBase64\obj\Debug\net6.0\ConvertisseurBase64.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetsPerso\C#\ApplicationTest1\ConvertisseurBase64\ConvertisseurBase64\obj\Debug\net6.0\ConvertisseurBase64.AssemblyInfoInputs.cache
+D:\ProjetsPerso\C#\ApplicationTest1\ConvertisseurBase64\ConvertisseurBase64\obj\Debug\net6.0\ConvertisseurBase64.AssemblyInfo.cs
+D:\ProjetsPerso\C#\ApplicationTest1\ConvertisseurBase64\ConvertisseurBase64\obj\Debug\net6.0\ConvertisseurBase64.csproj.CoreCompileInputs.cache
+D:\ProjetsPerso\C#\ApplicationTest1\ConvertisseurBase64\ConvertisseurBase64\obj\Debug\net6.0\ConvertisseurBase64.dll
+D:\ProjetsPerso\C#\ApplicationTest1\ConvertisseurBase64\ConvertisseurBase64\obj\Debug\net6.0\ref\ConvertisseurBase64.dll
+D:\ProjetsPerso\C#\ApplicationTest1\ConvertisseurBase64\ConvertisseurBase64\obj\Debug\net6.0\ConvertisseurBase64.pdb
+D:\ProjetsPerso\C#\ApplicationTest1\ConvertisseurBase64\ConvertisseurBase64\obj\Debug\net6.0\ConvertisseurBase64.genruntimeconfig.cache
